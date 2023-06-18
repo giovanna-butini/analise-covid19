@@ -36,7 +36,7 @@ Neste estudo, o grupo irá analisar os dados para entender os padrões relaciona
 # Requisitos Funcionais 
 
 - [x] **Realizar análise dos principais fatores que implicaram para a rápida propagação da doença**
-- [x] **Realizar análise para entender se existe algum período do ano que os casos tendem a aumentar e se existe alguma correlação com um fator externo**
+- [x] **Realizar análise para entender se existe algum período do ano em que os casos tendem a aumentar e se existe alguma correlação com um fator externo**
 - [x] **Traçar perfil do público que recebeu o imunizante para o doença e o público oposto**
 
 # Ambiente de Desenvolvimento Integrado
